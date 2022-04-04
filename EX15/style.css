@@ -1,0 +1,9 @@
+@charset "UFT-8";
+body{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30 px;
+}
+h1{ color: blue;}
+h2{ color: antiquewhite;}
+p{ text-align: justify;}
